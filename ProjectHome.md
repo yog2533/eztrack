@@ -1,0 +1,1 @@
+EzTrack is a web-based vehicle tracking system which utilize Postgis/Postgresql for storing GIS data and Mapserver/Kamap to visualize the data. EzTrack project consists of some source files which are planned to place into the Kamap application directory and a Java program to receive and save the GIS data collected from vehicles to a Postgresql database.
